@@ -1,4 +1,4 @@
-package com.company;
+package com.gwh.game;
 
 public class Main {
 
